@@ -1,0 +1,5 @@
+Dog 6
+Cat 4
+Hompter 3
+Fich 2
+snek 1
